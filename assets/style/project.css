@@ -17,22 +17,8 @@
       background-color: #4CAF50;
       color: white; }
 
-.profile_pic {
-  height: 25em;
-  width: 25em;
-  border-radius: 50%;
-  float: left;
-  margin-left: 2em;
-  margin-top: 1.5em;
-  /* padding-right: 25px;  */ }
-
-#bio {
-  /* padding-top: -0.5em; */
-  width: 70%;
-  float: right;
-  padding-right: 10%; }
-  #bio #header {
-    font-size: 5em;
-    margin-left: -7px;
-    font-family: "Gravitas One";
-    color: #333; }
+h2 {
+  padding-left: 2rem;
+  margin-top: 2rem;
+  font-family: "Gravitas One";
+  text-decoration: underline; }

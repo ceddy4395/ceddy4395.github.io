@@ -1,0 +1,9 @@
+@import 'shared/menu';
+@import 'shared/variables';
+
+h2 {
+    padding-left: 2rem; 
+    margin-top: 2rem;
+    font-family: $header-font;
+    text-decoration: underline;
+}

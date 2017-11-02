@@ -1,7 +1,6 @@
 {
   "name": "ceddy4395.github.io",
   "version": "1.0.0",
-  "description": "",
   "scripts": {
     "build": "gulp",
     "watch": "gulp watch",
@@ -12,5 +11,20 @@
     "gulp": "^3.9.1",
     "gulp-plumber": "^1.1.0",
     "gulp-sass": "^3.1.0"
-  }
+  },
+  "main": "gulpfile.js",
+  "dependencies": {
+    "marked": "^0.3.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ceddy4395/ceddy4395.github.io.git"
+  },
+  "author": "ceddy4395",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ceddy4395/ceddy4395.github.io/issues"
+  },
+  "homepage": "https://github.com/ceddy4395/ceddy4395.github.io#readme",
+  "description": ""
 }

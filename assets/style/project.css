@@ -22,3 +22,13 @@ h2 {
   margin-top: 2rem;
   font-family: "Gravitas One";
   text-decoration: underline; }
+
+#goal-plugin-markdown {
+  max-width: 80%;
+  margin: auto;
+  border: 1px solid black; }
+
+.intro {
+  max-width: 80%;
+  margin: auto;
+  padding-bottom: 10px; }

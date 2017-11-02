@@ -7,3 +7,15 @@ h2 {
     font-family: $header-font;
     text-decoration: underline;
 }
+
+#goal-plugin-markdown {
+    max-width: 80%;
+    margin: auto;
+    border: 1px solid black;
+}
+
+.intro {
+    max-width: 80%;
+    margin: auto;
+    padding-bottom: 10px;
+}
